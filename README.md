@@ -7,3 +7,8 @@ The DAO toolkit is a suite of resources and templates to help DAOist founders qu
 ## DAO Tokenomics Toolkit
 [DAO Discord Server Playbook & Checklist Template](https://github.com/wwwmaster1/DAO-Tokenomics-Toolkit) <img src="https://github.githubassets.com/favicons/favicon.png" alt="Google Sheet" width="14"/> A repo of Docs to help you tokenize your DAO.
 
+## Introductory Articles
+[Why DAO WHY NOW](https://www.linkedin.com/pulse/why-dao-now-igor-ilyinsky/) An overview of why DAOs are good.
+
+
+
